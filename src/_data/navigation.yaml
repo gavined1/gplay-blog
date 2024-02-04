@@ -1,10 +1,5 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: វែបសាយ
+    url: https://gplay9151.com
   - text: Blog
-    url: "/blog"
+    url: /blog
